@@ -15,8 +15,6 @@
     "react-router": "^7.0.2"
   },
   "devDependencies": {
-    "@babylonjs/core": "^7.38.0",
-    "@babylonjs/inspector": "^7.38.0",
     "@types/react": "^18.2.56",
     "@types/react-dom": "^18.2.19",
     "@typescript-eslint/eslint-plugin": "^7.0.2",
